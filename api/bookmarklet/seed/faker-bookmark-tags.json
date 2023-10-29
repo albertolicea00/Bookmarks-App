@@ -1,0 +1,322 @@
+[
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "everybody",
+            "icon": "set"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "as",
+            "icon": "music"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "development",
+            "icon": "himself"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "specific",
+            "icon": "decision"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "approach",
+            "icon": "himself"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "window",
+            "icon": "population"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "study",
+            "icon": "have"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "family",
+            "icon": "turn"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "represent",
+            "icon": "story"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "mother",
+            "icon": "apply"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "pretty",
+            "icon": "north"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "shoulder",
+            "icon": "economic"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "who",
+            "icon": "final"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "anyone",
+            "icon": "model"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "together",
+            "icon": "require"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "include",
+            "icon": "various"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "their",
+            "icon": "maybe"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "once",
+            "icon": "trouble"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "southern",
+            "icon": "real"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "cup",
+            "icon": "account"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "attention",
+            "icon": "middle"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "world",
+            "icon": "north"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "mission",
+            "icon": "trouble"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "party",
+            "icon": "quickly"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "they",
+            "icon": "however"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "senior",
+            "icon": "different"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "bad",
+            "icon": "least"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "meeting",
+            "icon": "Republican"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "loss",
+            "icon": "some"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "our",
+            "icon": "give"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "section",
+            "icon": "traditional"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "parent",
+            "icon": "these"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "recognize",
+            "icon": "so"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "society",
+            "icon": "personal"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "environment",
+            "icon": "none"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "dark",
+            "icon": "nearly"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "news",
+            "icon": "movement"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "decision",
+            "icon": "future"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "offer",
+            "icon": "teacher"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarktag",
+        "pk": null,
+        "fields": {
+            "name": "believe",
+            "icon": "point"
+        }
+    }
+]

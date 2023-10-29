@@ -1,0 +1,202 @@
+[
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "fly",
+            "icon": "yourself"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "drop",
+            "icon": "successful"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "control",
+            "icon": "easy"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "great",
+            "icon": "remain"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "large",
+            "icon": "people"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "project",
+            "icon": "difference"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "modern",
+            "icon": "he"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "community",
+            "icon": "today"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "resource",
+            "icon": "have"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "resource",
+            "icon": "institution"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "able",
+            "icon": "son"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "bit",
+            "icon": "store"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "base",
+            "icon": "resource"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "today",
+            "icon": "investment"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "newspaper",
+            "icon": "least"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "arrive",
+            "icon": "let"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "push",
+            "icon": "wife"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "center",
+            "icon": "reduce"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "couple",
+            "icon": "push"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "or",
+            "icon": "yes"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "for",
+            "icon": "explain"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "beat",
+            "icon": "debate"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "chair",
+            "icon": "night"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "peace",
+            "icon": "avoid"
+        }
+    },
+    {
+        "model": "bookmarklet.bookmarkgroup",
+        "pk": null,
+        "fields": {
+            "name": "quickly",
+            "icon": "business"
+        }
+    }
+]
