@@ -2,6 +2,7 @@
 /venv
 /.venv
 /.env
+/env
 
 # Carpeta de archivos estáticos generados
 /staticfiles

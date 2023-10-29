@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Activar el entorno virtual de tu proyecto Django
-source env/Scripts/bin/activate
+source env/Scripts/activate
 
 # Ejecutar el back-end
 cd api
