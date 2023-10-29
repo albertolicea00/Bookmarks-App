@@ -1,0 +1,44 @@
+# Carpeta de dependencias
+/venv
+/env
+/.venv
+/.env
+/.idea
+
+# Archivos generados por el entorno de desarrollo de PyCharm
+*.iml
+.idea/
+
+# Archivos generados por Visual Studio Code
+.vscode/
+
+# Archivos de registro
+*.log
+
+# Archivos de caché
+__pycache__/
+__init__.py
+*.pyc
+
+# Carpeta de migraciones
+/migrations
+
+# Carpeta de archivos compilados
+/__pycache__/
+*.pyc
+
+# Carpeta de archivos de prueba
+/.pytest_cache
+/.coverage
+
+# Carpeta de archivos de documentación generados
+/docs/_build/
+
+# Carpeta de archivos de copia de seguridad
+*.bak
+*.swp
+*.swo
+*.~
+
+# Carpeta de archivos de registro de errores
+/logs
