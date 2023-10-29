@@ -1,15 +1,22 @@
 #!/bin/bash
 
 # Activar el entorno virtual de tu proyecto Django
-source env/Scripts/activate
+if [[ "$OSTYPE" == "linux-gnu" ]]; then
+    source env/bin/activate
+elif [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+    source env/Scripts/activate
+else
+    echo "Sistema operativo o shell incompatible."
+    exit 1
+fi
 
-# Ejecutar el back-end
+# Inicia el servidor de Django
 cd api
-python manage.py migrate
-python manage.py runserver
-cd ..
+python manage.py runserver &
 
-# Ejecutar el front-end
-cd app
-npm run serve
-cd..
+# Espera unos segundos para asegurarte de que el servidor de Django esté en funcionamiento
+sleep 5
+
+# Inicia el servidor de React
+cd ../app
+npm start
