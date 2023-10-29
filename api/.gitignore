@@ -1,0 +1,50 @@
+# Carpeta de dependencias
+/venv
+/.venv
+/.env
+
+# Carpeta de archivos estáticos generados
+/staticfiles
+
+# Archivo de configuración local
+/local_settings.py
+
+# Archivos de registro
+*.log
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Carpeta de migraciones
+/migrations
+
+# Carpeta de archivos de medios generados
+/media
+
+# Carpeta de archivos compilados
+/__pycache__/
+*.pyc
+
+# Carpeta de archivos de prueba
+/.pytest_cache
+/.coverage
+
+# Carpeta de archivos de documentación generados
+/docs/_build/
+
+# Carpeta de archivos de entorno virtual
+/.env/
+/.venv/
+
+# Carpeta de archivos de copia de seguridad
+*.bak
+*.swp
+*.swo
+*.~
+
+# Carpeta de archivos de registro de errores
+/logs
